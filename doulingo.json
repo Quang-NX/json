@@ -1,0 +1,59 @@
+[
+  {
+    "id": "",
+    "content": "",
+    "type": 1,
+    "answers": [
+      {
+        "id": "",
+        "imgUrl": "",
+        "audioUrl": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "content": "",
+    "type": 2,
+    "answers": [
+      {
+        "id": "",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "content": "",
+    "audioUrl": "",
+    "imgUrl": "",
+    "type": 3,
+    "answers": [
+      {
+        "id": "",
+        "value": "",
+        "audioUrl": ""
+      }
+    ]
+  },
+  {
+    "id": "",
+    "audioUrl": "",
+    "title": "",
+    "type": 4,
+    "answers": [
+      {
+        "id": "",
+        "value": "",
+        "audioUrl": ""
+      },
+      {}
+    ]
+  },
+  {
+    "id": "",
+    "content": "",
+    "audioUrl": "",
+    "type": 5
+  }
+]
